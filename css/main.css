@@ -30,6 +30,7 @@ hr{
 .subtitle{
     text-transform: uppercase;
     color: #2d3c49;
+    margin-top: 10px;
 }
 
 .subtitle-division{
