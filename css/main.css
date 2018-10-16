@@ -28,6 +28,11 @@ hr{
 }
 
 .subtitle{
+    text-transform: uppercase;
+    color: #2d3c49;
+}
+
+.subtitle-division{
     margin-top: 10px;
 }
 
@@ -36,4 +41,3 @@ hr{
     width: 355px;
     height: 250px;
 }
-
